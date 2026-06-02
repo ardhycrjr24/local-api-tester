@@ -4,7 +4,7 @@ A lightweight REST API testing tool built with Next.js, TypeScript, and Tailwind
 
 ## Screenshot
 
-![Local API Tester](public/screenshots/local-api-tester.png)
+![Local API Tester](./public/screenshots/local-api-tester.png)
 
 ## Features
 
@@ -60,7 +60,7 @@ npm run start
 
 ### ⚠️ Security Warning
 
-The `/api/send-request` endpoint acts as an open proxy — it forwards any HTTP request to any URL on your behalf. This is **intended for local development only**. 
+The `/api/send-request` endpoint acts as an open proxy — it forwards any HTTP request to any URL on your behalf. This is **intended for local development only**.
 
 **DO NOT** deploy this application to a public server without adding proper authentication and rate limiting. Doing so would create an open proxy that anyone could abuse.
 
