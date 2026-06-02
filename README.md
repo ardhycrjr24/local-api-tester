@@ -2,6 +2,10 @@
 
 A lightweight REST API testing tool built with Next.js, TypeScript, and TailwindCSS. Send HTTP requests, view responses, and manage request history — all locally in your browser.
 
+## Screenshot
+
+![Local API Tester](public/screenshots/local-api-tester.png)
+
 ## Features
 
 - Send HTTP requests (GET, POST, PUT, PATCH, DELETE)
